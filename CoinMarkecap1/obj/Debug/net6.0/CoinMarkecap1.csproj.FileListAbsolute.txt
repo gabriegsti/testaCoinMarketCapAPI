@@ -1,0 +1,15 @@
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\bin\Debug\net6.0\CoinMarkecap1.exe
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\bin\Debug\net6.0\CoinMarkecap1.deps.json
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\bin\Debug\net6.0\CoinMarkecap1.runtimeconfig.json
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\bin\Debug\net6.0\CoinMarkecap1.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\bin\Debug\net6.0\CoinMarkecap1.pdb
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.csproj.AssemblyReference.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.AssemblyInfoInputs.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.AssemblyInfo.cs
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.csproj.CoreCompileInputs.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\refint\CoinMarkecap1.dll
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.pdb
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\CoinMarkecap1.genruntimeconfig.cache
+C:\Users\aluno06.TSACBRRJLP046\source\repos\CoinMarkecap1\CoinMarkecap1\obj\Debug\net6.0\ref\CoinMarkecap1.dll
